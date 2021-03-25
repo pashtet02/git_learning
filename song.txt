@@ -11,6 +11,3 @@ some new lines
 some new lines
 
 some new lines
-
-Hello world
-
